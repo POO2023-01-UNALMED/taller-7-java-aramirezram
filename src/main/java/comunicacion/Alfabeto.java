@@ -24,7 +24,7 @@ public class Alfabeto extends Pictograma {
 		for(int i=0;i<letras.length;i++) {
 			if(i==0) cadena=letras[i]+",";
 			else if (i==letras.length-1) cadena=cadena+" "+letras[i];
-			else cadena=cadena+" "+letras+",";
+			else cadena=cadena+" "+letras[i]+",";
 		}
 		return cadena;
 	}
