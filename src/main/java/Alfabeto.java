@@ -1,3 +1,4 @@
+import comunicacion.Pictograma;
 
 public class Alfabeto extends Pictograma {
 	private String interpretacion;

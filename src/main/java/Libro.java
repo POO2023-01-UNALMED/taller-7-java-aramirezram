@@ -1,3 +1,4 @@
+import comunicacion.Escrito;
 
 public class Libro extends Escrito {
 	public String co_autor,editorial,edicion,interpretacion;
