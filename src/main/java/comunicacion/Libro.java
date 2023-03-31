@@ -1,4 +1,4 @@
-import comunicacion.Escrito;
+package comunicacion;
 
 public class Libro extends Escrito {
 	public String co_autor,editorial,edicion,interpretacion;
